@@ -13,3 +13,4 @@ _ = 12
 print(_)
 _ = _ + 1
 print(_)
+print("I am from identifier")
