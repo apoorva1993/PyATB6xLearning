@@ -1,1 +1,1 @@
-print ("Apoorva", "and", "Mayur")
+print("Apoorva", "and", "Mayur")

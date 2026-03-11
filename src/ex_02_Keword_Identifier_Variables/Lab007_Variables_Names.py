@@ -12,7 +12,6 @@ print("Type of _pramod", type(_pramod))
 print("type of pi", type(pi))
 print("Type of isFemale", type(isFemale))
 
-
 # Data type: complex numbers in python -> iota
 # iota -> root of -1(i) -> j
 # complex numbers = 2 + 3j -
